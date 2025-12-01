@@ -1,0 +1,7 @@
+@media(min-width:768px){
+    .faq-box{
+        display: flex;
+        gap: 15rem;
+        align-items: center;
+    }
+}
